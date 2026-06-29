@@ -16,7 +16,9 @@ The Book Management API is designed to be organized, scalable, and highly mainta
 
 ---
 
-## 📸 Demo - Screenshots
+## 📸 Demo & Screenshots
+
+**🎥 Full Video Walkthrough:** [Watch the Demo Video](demo/Demo_video.mp4)
 
 ### 🤖 AI Librarian Web Interface
 | Before Query | Search Query | Complex Query |
